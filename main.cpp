@@ -1,4 +1,3 @@
-// #include "mainwindow.h"
 #include <iostream> // standard cout && cin inputs
 
 using namespace std;
